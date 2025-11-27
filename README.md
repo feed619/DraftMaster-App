@@ -24,6 +24,17 @@
 
 DraftMaster — это мощный инструмент для анализа статистики игроков Dota 2. С его помощью вы можете быстро получить подробную статистику по любому профилю, увидеть оценку игрока, сформированную на основе его матчей, а также возможность подписаться на интересующих игроков.
 
+## 🛠️ Технологии
+
+### Backend:
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Frontend:
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
 ## ✨ Возможности
 
 ### 🔍 **Информация об игроке**
@@ -115,22 +126,6 @@ DraftMaster — это мощный инструмент для анализа �
 #### Поиск по данным из консоли Dota 2 (команда `status`)
 
 <img src="images/search/players-names.webp" alt="Поиск по именам"/>
-
-## 🌐 Социальные сети
-
-Подписывайтесь на наши официальные страницы, чтобы быть в курсе всех обновлений, новых функций и эксклюзивных материалов по Dota 2.
-
-<p align="center">
-  <a href="https://youtube.com/@fidych619" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://twitch.tv/fidych619" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-  </a>
-  <a href="https://t.me/DraftMaster_dota" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</p>
 
 ## 💬 Поддержка
 
