@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/90jpDsgK/logo-blue.png" width="200" alt="DraftMaster Logo" />
+  <img src="images\draftmaster.png" width="200" alt="DraftMaster Logo" />
 </p>
 
 <h1 align="center">DraftMaster</h1>
