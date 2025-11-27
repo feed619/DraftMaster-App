@@ -26,14 +26,13 @@ DraftMaster — это мощный инструмент для анализа �
 
 ## 🛠️ Технологии
 
-### Backend:
+### Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+Проект использует **FastAPI** для создания REST API:
 
-### Frontend:
+### Frontend
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+Клиентское приложение написано на **C++** с использованием **Qt**
 
 ## ✨ Возможности
 
