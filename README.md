@@ -82,10 +82,6 @@ DraftMaster — это мощный инструмент для анализа �
 
 ### Установка
 
-```bash
-# Скачайте последнюю версию по ссылке ниже
-```
-
 <p align="center"> <a href="https://api.draftmaster.online/application/download"> <img src="https://img.shields.io/badge/Скачать_DraftMaster-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать DraftMaster" /> </a> </p>
 
 ## 🖼️ Скриншоты
@@ -153,6 +149,5 @@ DraftMaster — это мощный инструмент для анализа �
 _DraftMaster — ваш надежный помощник в мире competitive Dota 2_  
 [🌐 Официальный сайт](https://draftmaster.online/) •
 [📢 Telegram канал](https://t.me/DraftMaster_dota) •
-[📧 Поддержка](mailto:support@draftmaster.online)
 
 </div>
