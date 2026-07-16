@@ -84,39 +84,39 @@ DraftMaster — это мощный инструмент для анализа �
 
 <p align="center"> <a href="https://api.draftmaster.online/application/download"> <img src="https://img.shields.io/badge/Скачать_DraftMaster-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать DraftMaster" /> </a> </p>
 
-## 🖼️ Скриншоты
+## Скриншоты
 
-### 📊 Основная информация
+### Основная информация
 
 #### Основная статистика игрока: ID, победы/поражения, винрейт, ранг и система подписки
 
 <img src="images/tabs/info.webp" width="300" alt="Информация об игроке"/>
 
-### 📈 Рекомендации и анализ
+### Рекомендации и анализ
 
 #### Краткий анализ игрока: популярные герои, позиция, винрейт, KDA и общая оценка
 
 <img src="images/tabs/rec.webp" width="300" alt="Рекомендации"/>
 
-### 🎮 История матчей
+### История матчей
 
 #### История 15 последних игр: герои, результат, позиция, длительность и KDA
 
 <img src="images/tabs/matches.webp" width="300" alt="Последние матчи"/>
 
-### 🦸 Популярные герои
+### Популярные герои
 
 #### Список популярных героев игрока с играми, винрейтом и KDA
 
 <img src="images/tabs/heroes.webp" width="300" alt="Популярные герои"/>
 
-### 🔍 Поиск по ID
+### Поиск по ID
 
 #### Поиск игрока по ID - не расходует DraftCoins
 
 <img src="images/search/player-id.webp" alt="Поиск по ID"/>
 
-### 👥 Поиск по именам
+### Поиск по именам
 
 #### Поиск по данным из консоли Dota 2 (команда `status`)
 
